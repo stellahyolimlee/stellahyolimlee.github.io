@@ -1,7 +1,7 @@
 # stellahyolimlee.github.io
 
-# HELLOOOOOOOOOO
-## Hi
+# *HELLOOOOOOOOOO*
+## ~~Hi~~
 ### Hey
 #### H4
 ##### H5
