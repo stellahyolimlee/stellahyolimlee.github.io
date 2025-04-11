@@ -1,9 +1,9 @@
 # stellahyolimlee.github.io
 
-# *HELLOOOOOOOOOO*
-## ~~Hi~~
-### Hey
-#### H4
+# *Im 18*
+## From cali
+### now in nyc
+#### I make things......
 ##### H5
 ###### H6
 
