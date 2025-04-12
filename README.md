@@ -1,9 +1,9 @@
 # stellahyolimlee.github.io
 
-# *Im 18*
-## From cali
-### now in nyc
-#### I make things......
+# __Making things in NYC 18 Years Old as of 2025__
+## Originally from Da Bay
+### website is in the making
+#### Look out for my work
 ##### H5
 ###### H6
 
