@@ -1,11 +1,13 @@
-# stellahyolimlee.github.io
-
+// title
 # __Making things in NYC 18 Years Old as of 2025__
 ## Originally from Da Bay
 ### website is in the making
 #### Look out for my work
 ##### H5
 ###### H6
+
+/* 
+REFERENCE 
 
 Alternatively, for H1 and H2, an underline-ish style:
 
@@ -164,3 +166,4 @@ This line is only separated by a single newline, so it's a separate line in the 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+*/
