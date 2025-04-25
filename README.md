@@ -1,5 +1,4 @@
-// title
-# __Making things in NYC 18 Years Old as of 2025__
+# __Stella Hyolim Lee__
 ## Originally from Da Bay
 ### website is in the making
 #### Look out for my work
