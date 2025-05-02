@@ -18,17 +18,13 @@ ____
 
 ### Works :
 
-![Sarah](Sarah.tiff)
+![i - D](i - D.jpg)
 
 <br>
 
-<img src = "Port/Sarah.tiff" width = 200>
+<img src = "Port/i - D.jpg" width = 1000>
 
-https://github.com/user-attachments/assets/d3e88f8d-4641-4315-aaef-cff5a1c87aae
 
-![Symbol's_Manifesto](https://github.com/user-attachments/assets/bf62b7e0-3b12-4f05-a634-9eff819d72f5)
-
-_The Symbol's Manifesto_
 
 
 ____
