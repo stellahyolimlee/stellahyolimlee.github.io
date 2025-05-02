@@ -18,12 +18,9 @@ ____
 
 ### Works :
 
-![i - D](i - D.jpg)
-
-<br>
-
-<img src = "Port/i - D.jpg" width = 1000>
-
+<img src = "Port/i - D.jpg" width = 500>
+  
+_Donkatsu & Boy, i - D Mag_
 
 
 
