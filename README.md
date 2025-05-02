@@ -18,9 +18,13 @@ ____
 
 ### Works :
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/B-pAB22nlUA
-" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/B-pAB22nlUA/0.jpg" 
-alt="Animation" width="240" height="180" border="10" /></a>
+![Sarah](Sarah.tiff)
+
+<br>
+
+<img src = "Port/Sarah.tiff" width = 200>
+
+https://github.com/user-attachments/assets/d3e88f8d-4641-4315-aaef-cff5a1c87aae
 
 ![Symbol's_Manifesto](https://github.com/user-attachments/assets/bf62b7e0-3b12-4f05-a634-9eff819d72f5)
 
