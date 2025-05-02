@@ -16,8 +16,15 @@ Awards Won: 0 (But TBD)
 I like to make things more than paint things
 ____
 
-### Works by me
+### Works :
 
-![Yoon_2](https://github.com/user-attachments/assets/3fee026d-4a0d-4059-b94f-dd0a2d315c0b)
-_Yoon_
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/B-pAB22nlUA
+" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/B-pAB22nlUA/0.jpg" 
+alt="Animation" width="240" height="180" border="10" /></a>
 
+![Symbol's_Manifesto](https://github.com/user-attachments/assets/bf62b7e0-3b12-4f05-a634-9eff819d72f5)
+
+_The Symbol's Manifesto_
+
+
+____
