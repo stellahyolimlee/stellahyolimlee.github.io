@@ -1,19 +1,14 @@
 
-#
+<img src = "Port/Stella Hyolim Lee.png" width = 1100>
 
-<img width="612" alt="Screenshot 2025-05-02 at 4 09 33 PM" src="https://github.com/user-attachments/assets/a8e3dacd-db41-4625-b4c1-f7cccb4c7dd0" />
-
-
+<samp>I LIKE TO MAKE THINGS MORE THAN PAINT THINGS</samp><p style="text-align: center;">
 ____
-18 (As Of 2025)
+<samp>Q</samp> | <samp>A</samp>
+-|-
+<samp>AGE</samp> | <samp>19</samp>
+<samp>FROM</samp> | <samp>California</samp>
+<samp>AWARDS WON</samp> | <samp>0</samp>
 
-From: California
-
-Currently in NYC
-
-Awards Won: 0 (But TBD)
-
-I like to make things more than paint things
 ____
 
 ### Works :
