@@ -1,3 +1,4 @@
+  [comment]: <MAIN>
 
 <img src = "Port/Stella Hyolim Lee.png" width = 1100>
 
@@ -6,9 +7,13 @@
 </p>
 
 ____
+  [comment]: <BIO>
+
 <p align="center">
 <samp>BIO</samp>
 </p>
+
+  [comment]: <TABLE>
 
 <samp>Q</samp> | <samp>A</samp>
 -|-
@@ -17,9 +22,13 @@ ____
 <samp>AWARDS WON</samp> | <samp>0</samp>
 
 ____
+  [comment]: <WORK DISPLAY>
+
 <p align="center">
 <samp>WORKS</samp>
 </p>
+
+  [comment]: <PHOTOSHOP>
 
 <p align="left">
 <samp>PHOTOSHOP</samp>
@@ -32,8 +41,9 @@ ____
 <samp>DONKATSU & BOY, i - D MAGAZINE SPRING 2025 ISSUE</samp>
 </p>
 
-
 ____
+  [comment]: <LIGHTROOM>
+  
 <p align="right">
 <samp>LIGHTROOM</samp>
 </p>
@@ -44,6 +54,5 @@ ____
 <p align="left">
 <samp>JANEAH JADE CORDERO IN SF</samp>
 </p>
-
 
 ____
