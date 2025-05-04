@@ -55,4 +55,18 @@ ____
 <samp>JANEAH JADE CORDERO IN SF</samp>
 </p>
 
+<p align="center">
+<img src = "Port/Sarah.jpg" width = 300>
+</p>
+<p align="center">
+<samp>MY BEAUTIFUL SISTER</samp>
+</p>
+
+<p align="right">
+<img src = "Port/SeoHooTIFF.jpg" width = 300>
+</p>
+<p align="right">
+<samp>MY BEAUTIFUL COUSIN</samp>
+</p>
+
 ____
