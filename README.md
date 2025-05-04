@@ -78,8 +78,17 @@ ____
 <p align="right">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Tjo-0VqUafg
 " target="_blank"><img src="http://img.youtube.com/vi/Tjo-0VqUafg/0.jpg" 
-alt="Port/IMG_3933.jpg" width="300" height="180" border="10" /></a>
+width="300" height="180" border="10" /></a>
 </p>
 <p align="right">
 <samp>STOP MOTION ANIMATION W/ KARWAAN & JOON</samp>
+</p>
+
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=B-pAB22nlUA?si=F-uxrQ6u_TCeI56T
+" target="_blank"><img src="http://img.youtube.com/vi/B-pAB22nlUA?si=F-uxrQ6u_TCeI56T/0.jpg" 
+width="300" height="180" border="10" /></a>
+</p>
+<p align="center">
+<samp>FUCK...</samp>
 </p>
