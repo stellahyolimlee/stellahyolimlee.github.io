@@ -22,7 +22,7 @@ ____
 </p>
 
 <p align="left">
-<samp>LIGHTROOM</samp>
+<samp>PHOTOSHOP</samp>
 </p>
 
 <p align="right">
@@ -30,6 +30,19 @@ ____
 </p>
 <p align="right">
 <samp>DONKATSU & BOY, i - D MAGAZINE SPRING 2025 ISSUE</samp>
+</p>
+
+
+____
+<p align="right">
+<samp>LIGHTROOM</samp>
+</p>
+
+<p align="left">
+<img src = "Port/JJCORDERO.jpg" width = 300>
+</p>
+<p align="left">
+<samp>JANEAH JADE CORDERO IN SF</samp>
 </p>
 
 
