@@ -27,7 +27,6 @@ ____
 <details open>
 <summary><samp>WORKS</samp></summary>
 
-____
   [comment]: <PHOTOSHOP>
 
 <p align="right">
@@ -115,10 +114,10 @@ ____
 </p>
 
 <p align="left">
-<img src = "Port/JJCORDERO.jpg" width = 300>
+<img src = "Port/Symbol's_Manifesto.png" width = 300>
 </p>
 <p align="left">
-<samp>JANEAH JADE CORDERO IN SF</samp>
+<samp>SYMBOL'S MANIFESTO</samp>
 </p>
 
 </details>
