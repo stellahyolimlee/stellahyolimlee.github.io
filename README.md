@@ -75,6 +75,4 @@ ____
 <samp>AFTER EFFECTS</samp>
 </p>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=[https://youtu.be/B-pAB22nlUA?si=0GVMELeExdhMh4FF]
-" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/B-pAB22nlUA?si=0GVMELeExdhMh4FF/0.jpg" 
-alt = "Port/IMG_3933.jpg" width="240" height="180" border="10" /></a>
+[![Port/IMG_3933.jpg](http://img.youtube.com/vi/https://youtu.be/Tjo-0VqUafg/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/Tjo-0VqUafg)
