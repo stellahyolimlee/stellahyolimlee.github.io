@@ -21,9 +21,14 @@ ____
 <samp>WORKS</samp>
 </p>
 
+<p align="left">
+<samp>LIGHTROOM</samp>
+</p>
+
 <p align="right">
 <img src = "Port/i - D.jpg" width = 300>
-
+</p>
+<p align="right">
 <samp>DONKATSU & BOY, i - D MAGAZINE SPRING 2025 ISSUE</samp>
 </p>
 
