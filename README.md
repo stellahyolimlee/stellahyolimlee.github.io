@@ -2,6 +2,7 @@
 
 <img src = "Port/Stella Hyolim Lee 이효림.png" width = 1100>
 
+
 <p align="center">
 <samp>I LIKE TO MAKE THINGS MORE THAN PAINT THINGS</samp>
 </p>
@@ -18,8 +19,16 @@ ____
 <samp>Q</samp> | <samp>A</samp>
 -|-
 <samp>AGE</samp> | <samp>19</samp>
-<samp>FROM</samp> | <samp>California</samp>
+<samp>BORN</samp> | <samp>ROK & DPRK</samp>
+<samp>GREW UP</samp> | <samp>BAY AREA</samp>
+<samp>CURRENTLY IN</samp> | <samp>NYC</samp>
 <samp>AWARDS WON</samp> | <samp>0</samp>
+<samp>HEIGHT</samp> | <samp>161CM</samp>
+<samp>WEIGHT</samp> | <samp>46KG</samp>
+<samp>BLOOD TYPE</samp> | <samp>A</samp>
+<samp>PHONE NUMBER</samp> | <samp>(669) 256 - 6947</samp>
+<samp>ADDRESS</samp> | <samp>534 W 50TH ST</samp>
+<samp>INQUIRY</samp> | <samp>STELLALEE508@GMAIL.COM</samp>
 
 ____
   [comment]: <WORK DISPLAY>
