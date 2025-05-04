@@ -1,6 +1,6 @@
   [comment]: <MAIN>
 
-<img src = "Port/Stella Hyolim Lee.png" width = 1100>
+<img src = "Port/Stella Hyolim Lee 이효림.png" width = 1100>
 
 <p align="center">
 <samp>I LIKE TO MAKE THINGS MORE THAN PAINT THINGS</samp>
